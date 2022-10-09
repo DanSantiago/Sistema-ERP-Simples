@@ -8,7 +8,8 @@ O projeto está sendo desenvolvido atualmente para fins de treinamento com algun
 
 ## Demonstração - Atual
 
-https://user-images.githubusercontent.com/75077046/194759857-f0e224b6-5958-4c08-8ab6-d436bee4b6f9.mp4
+
+https://user-images.githubusercontent.com/75077046/194760870-f362b1e2-2aa3-4862-ba11-d4d726e01a61.mp4
 
 
 # Tecnologias utilizadas
@@ -33,11 +34,13 @@ Lista de desenvolvimento:
 
 - [x] Layout da guia "Clientes" montado
 
-![Captura de Tela (42)](https://user-images.githubusercontent.com/75077046/194760375-9cc56768-a40e-414a-a618-35758d8f662b.png)
+![Captura de Tela (48)](https://user-images.githubusercontent.com/75077046/194760890-663113fc-695e-4e77-9345-9b7394465062.png)
+
 
 - [x] Layout da guia "Produto" montado
 
-![Captura de Tela (43)](https://user-images.githubusercontent.com/75077046/194760378-74ab95d0-b45f-4698-9ece-262de7627362.png)
+![Captura de Tela (47)](https://user-images.githubusercontent.com/75077046/194760899-df20375b-4e81-4d22-8d55-ff83513e383f.png)
+
 
 - [] Layout da guia "Compras" montado
 - [] Layout da guia "Vendas" montado
