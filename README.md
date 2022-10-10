@@ -30,16 +30,15 @@ Lista de desenvolvimento:
 - [x] Aba das guias criada
 - [x] Layout da guia "Home" montado (Posicionamento dos boards feito mas os boards ainda não estão funcionando)
 
-![Captura de Tela (41)](https://user-images.githubusercontent.com/75077046/194760368-6c7a99bd-6141-4883-8b01-d9a604c7d270.png)
+![Captura de Tela (50)](https://user-images.githubusercontent.com/75077046/194785472-ba4a7d66-1e06-4753-a95e-69f9f8c21b62.png)
 
 - [x] Layout da guia "Clientes" montado
 
-![Captura de Tela (48)](https://user-images.githubusercontent.com/75077046/194760890-663113fc-695e-4e77-9345-9b7394465062.png)
-
+![Captura de Tela (51)](https://user-images.githubusercontent.com/75077046/194785476-6c77ff09-d4f9-454b-892f-8b2baf75297a.png)
 
 - [x] Layout da guia "Produto" montado
 
-![Captura de Tela (47)](https://user-images.githubusercontent.com/75077046/194760899-df20375b-4e81-4d22-8d55-ff83513e383f.png)
+![Captura de Tela (52)](https://user-images.githubusercontent.com/75077046/194785494-bb0ea303-2d5b-4f83-9a9b-00f6707b7d61.png)
 
 
 - [] Layout da guia "Compras" montado
