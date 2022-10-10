@@ -43,7 +43,11 @@ Lista de desenvolvimento:
 
 
 - [] Layout da guia "Compras" montado
-- [] Layout da guia "Vendas" montado
+- [x] Layout da guia "Vendas" montado
+
+![Captura de Tela (49)](https://user-images.githubusercontent.com/75077046/194785426-2966b5ad-469c-4b72-a55a-4210fcd72146.png)
+
+
 - [] Layout da guia "Financeiro" montado
 - [] Layout da guia "Configuração" montado
 
