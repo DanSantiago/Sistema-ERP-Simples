@@ -9,7 +9,11 @@ O projeto está sendo desenvolvido atualmente para fins de treinamento com algun
 ## Demonstração - Atual
 
 
-https://user-images.githubusercontent.com/75077046/194760870-f362b1e2-2aa3-4862-ba11-d4d726e01a61.mp4
+
+https://user-images.githubusercontent.com/75077046/195137467-01b0361e-347b-4d47-9bb1-b14731fb4588.mp4
+
+
+
 
 
 # Tecnologias utilizadas
@@ -30,27 +34,31 @@ Lista de desenvolvimento:
 - [x] Aba das guias criada
 - [x] Layout da guia "Home" montado (Posicionamento dos boards feito mas os boards ainda não estão funcionando)
 
-![Captura de Tela (50)](https://user-images.githubusercontent.com/75077046/194785472-ba4a7d66-1e06-4753-a95e-69f9f8c21b62.png)
+![Captura de Tela (59)](https://user-images.githubusercontent.com/75077046/195137577-6de5ecf2-4758-4838-a860-96ab869e0850.png)
 
 - [x] Layout da guia "Clientes" montado
 
-![Captura de Tela (51)](https://user-images.githubusercontent.com/75077046/194785476-6c77ff09-d4f9-454b-892f-8b2baf75297a.png)
+![Captura de Tela (53)](https://user-images.githubusercontent.com/75077046/195137642-cc47c63b-ec3f-48bf-8fe1-c94a046ca260.png)
 
 - [x] Layout da guia "Produto" montado
 
-![Captura de Tela (52)](https://user-images.githubusercontent.com/75077046/194785494-bb0ea303-2d5b-4f83-9a9b-00f6707b7d61.png)
+![Captura de Tela (54)](https://user-images.githubusercontent.com/75077046/195137684-7e0abe0e-0e7a-49ad-8e89-e74d9b3ff12e.png)
 
+- [x] Layout da guia "Compras" montado
 
-- [] Layout da guia "Compras" montado
+![Captura de Tela (55)](https://user-images.githubusercontent.com/75077046/195137752-430154e2-a7f8-4363-919d-fb167bc8a522.png)
+
 - [x] Layout da guia "Vendas" montado
 
-![Captura de Tela (49)](https://user-images.githubusercontent.com/75077046/194785426-2966b5ad-469c-4b72-a55a-4210fcd72146.png)
+![Captura de Tela (56)](https://user-images.githubusercontent.com/75077046/195137775-145a5d3c-5cb2-4865-9bd2-75179ca043f7.png)
 
+- [x] Layout da guia "Financeiro" montado
 
-- [] Layout da guia "Financeiro" montado
-- [] Layout da guia "Configuração" montado
+![Captura de Tela (60)](https://user-images.githubusercontent.com/75077046/195137807-8c15c454-aabb-4f24-a320-42dae9a3c775.png)
 
-2) Etapa 2:
+- [x] Layout da guia "Configuração" montado![Captura de Tela (58)](https://user-images.githubusercontent.com/75077046/195137830-1be18890-2368-4686-a6a8-dd2328acbc21.png)
+
+Vale ressaltar que as "versões finalizadas" dos layouts podem (e devem ser) modificadas ainda. As fotos mostram uma versão beta do projeto.
 
 ## Back-End
 
