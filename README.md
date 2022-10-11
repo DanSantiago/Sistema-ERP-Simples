@@ -54,7 +54,7 @@ Lista de desenvolvimento:
 
 - [x] Layout da guia "Financeiro" montado
 
-![Captura de Tela (60)](https://user-images.githubusercontent.com/75077046/195137807-8c15c454-aabb-4f24-a320-42dae9a3c775.png)
+![Captura de Tela (61)](https://user-images.githubusercontent.com/75077046/195176291-8de77da3-dddb-4837-a831-972951dfbbc4.png)
 
 - [x] Layout da guia "Configuração" montado![Captura de Tela (58)](https://user-images.githubusercontent.com/75077046/195137830-1be18890-2368-4686-a6a8-dd2328acbc21.png)
 
