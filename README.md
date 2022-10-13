@@ -8,12 +8,7 @@ O projeto está sendo desenvolvido atualmente para fins de treinamento com algun
 
 ## Demonstração - Atual
 
-
-
-https://user-images.githubusercontent.com/75077046/195137467-01b0361e-347b-4d47-9bb1-b14731fb4588.mp4
-
-
-
+https://user-images.githubusercontent.com/75077046/195720718-ab31567f-eaee-429d-9600-76f840885268.mp4
 
 
 # Tecnologias utilizadas
@@ -38,43 +33,48 @@ Lista de desenvolvimento:
 
 - [x] Layout da guia "Clientes" montado
 
-![Captura de Tela (53)](https://user-images.githubusercontent.com/75077046/195137642-cc47c63b-ec3f-48bf-8fe1-c94a046ca260.png)
+![Captura de Tela (62)](https://user-images.githubusercontent.com/75077046/195719890-083ea6ee-27f1-4d0c-956b-dd36e621c13c.png)
+
 
 - [x] Layout da guia "Produto" montado
 
-![Captura de Tela (54)](https://user-images.githubusercontent.com/75077046/195137684-7e0abe0e-0e7a-49ad-8e89-e74d9b3ff12e.png)
+![Captura de Tela (63)](https://user-images.githubusercontent.com/75077046/195719919-1205e4b1-5afe-4429-9d56-550dd7b73339.png)
+
 
 - [x] Layout da guia "Compras" montado
 
-![Captura de Tela (55)](https://user-images.githubusercontent.com/75077046/195137752-430154e2-a7f8-4363-919d-fb167bc8a522.png)
+![Captura de Tela (64)](https://user-images.githubusercontent.com/75077046/195719953-78c47377-5744-4aba-a625-f1a5265befa3.png)
+
 
 - [x] Layout da guia "Vendas" montado
 
-![Captura de Tela (56)](https://user-images.githubusercontent.com/75077046/195137775-145a5d3c-5cb2-4865-9bd2-75179ca043f7.png)
+![Captura de Tela (65)](https://user-images.githubusercontent.com/75077046/195719972-f94ea715-a1eb-45fb-9a91-69440a280844.png)
+
 
 - [x] Layout da guia "Financeiro" montado
 
-![Captura de Tela (61)](https://user-images.githubusercontent.com/75077046/195176291-8de77da3-dddb-4837-a831-972951dfbbc4.png)
+![Captura de Tela (66)](https://user-images.githubusercontent.com/75077046/195719984-f21d8b84-2c2b-4a56-89b4-8b983f6ba8e1.png)
 
-- [x] Layout da guia "Configuração" montado![Captura de Tela (58)](https://user-images.githubusercontent.com/75077046/195137830-1be18890-2368-4686-a6a8-dd2328acbc21.png)
 
-Vale ressaltar que as "versões finalizadas" dos layouts podem (e devem ser) modificadas ainda. As fotos mostram uma versão beta do projeto.
+- [x] Layout da guia "Configuração" montado
+
+![Captura de Tela (67)](https://user-images.githubusercontent.com/75077046/195720020-34f9f99f-7189-416b-85a8-5d310d2b7056.png)
+
+
+Vale ressaltar que as "versões finalizadas" dos layouts podem (e provavelmente serão) modificadas ainda. As fotos mostram uma versão beta do projeto.
 
 ## Back-End
 
-Até o momento nada foi desenvolvido.
+- [x] Botões da guia "Clientes" funcionais e banco de dados completo
 
-Lista de desenvolvimento:
-
-- [] Adicionar as funcionalidades dos elementos apresentados no Front-End
-
-OBS: É necessário instalar os módulos antes de executar o algoritmo.
+https://user-images.githubusercontent.com/75077046/195721696-23d863bc-00a4-47dc-b83f-fe6d6dadad1e.mp4
 
 # Como executar o projeto
 
 Basta baixar a pasta do projeto e simplesmente executar o arquivo "main.py".
 
 OBS: É necessário ter uma versão do Python instalada para a execução funcionar.
+OBS2: É necessário instalar os módulos antes de executar o algoritmo.
 
 # Autor
 
