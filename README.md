@@ -69,6 +69,12 @@ Vale ressaltar que as "versões finalizadas" dos layouts podem (e provavelmente 
 
 https://user-images.githubusercontent.com/75077046/195721696-23d863bc-00a4-47dc-b83f-fe6d6dadad1e.mp4
 
+- [x] Botões da guia "Produtos" funcionais e banco de dados completo
+
+https://user-images.githubusercontent.com/75077046/196003634-c0454703-fa6f-4f9c-a06a-ff98cd266de0.mp4
+
+
+
 # Como executar o projeto
 
 Basta baixar a pasta do projeto e simplesmente executar o arquivo "main.py".
