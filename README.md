@@ -8,15 +8,15 @@ O projeto está sendo desenvolvido atualmente para fins de treinamento com algun
 
 ## Demonstração - Atual
 
-https://user-images.githubusercontent.com/75077046/195720718-ab31567f-eaee-429d-9600-76f840885268.mp4
-
+https://user-images.githubusercontent.com/75077046/199514413-f2923bfd-5c8c-4b5b-aa20-7f06ac7b6f56.mp4
 
 # Tecnologias utilizadas
 - Python
 
 ## Módulos utilizados até o momento
 - PySimpleGUI (Front-End)
-- datetime (Sistema de datas na guia superior)
+- datetime (Sistema de data e horário na guia superior)
+- SQLite3 (Banco de dados - local)
 
 # Desemvolvimento
 
@@ -24,56 +24,65 @@ https://user-images.githubusercontent.com/75077046/195720718-ab31567f-eaee-429d-
 
 Lista de desenvolvimento:
 
+- [x] Tela de login/cadastro de usuários e loja
+
+![Captura de Tela (69)](https://user-images.githubusercontent.com/75077046/199512187-0ba11e60-086b-4ef0-93d2-fc1cb9d3b24e.png)
+
+
 - [x] Botôes funcionais
 - [x] Aba superior criada
 - [x] Aba das guias criada
 - [x] Layout da guia "Home" montado (Posicionamento dos boards feito mas os boards ainda não estão funcionando)
 
-![Captura de Tela (59)](https://user-images.githubusercontent.com/75077046/195137577-6de5ecf2-4758-4838-a860-96ab869e0850.png)
+![Captura de Tela (74)](https://user-images.githubusercontent.com/75077046/199512501-e45deca8-b144-4971-ad22-53738c285865.png)
 
 - [x] Layout da guia "Clientes" montado
 
-![Captura de Tela (62)](https://user-images.githubusercontent.com/75077046/195719890-083ea6ee-27f1-4d0c-956b-dd36e621c13c.png)
-
+![Captura de Tela (75)](https://user-images.githubusercontent.com/75077046/199512532-37c83e5e-95c3-4e6b-aa67-61646b510a4c.png)
 
 - [x] Layout da guia "Produto" montado
 
-![Captura de Tela (63)](https://user-images.githubusercontent.com/75077046/195719919-1205e4b1-5afe-4429-9d56-550dd7b73339.png)
-
+![Captura de Tela (76)](https://user-images.githubusercontent.com/75077046/199512604-500bf14e-49b1-4e4d-a5aa-f6fb4f99df2e.png)
 
 - [x] Layout da guia "Compras" montado
 
-![Captura de Tela (64)](https://user-images.githubusercontent.com/75077046/195719953-78c47377-5744-4aba-a625-f1a5265befa3.png)
-
+![Captura de Tela (77)](https://user-images.githubusercontent.com/75077046/199512675-32fb7671-5323-47eb-957d-30ef5f53427c.png)
 
 - [x] Layout da guia "Vendas" montado
 
-![Captura de Tela (65)](https://user-images.githubusercontent.com/75077046/195719972-f94ea715-a1eb-45fb-9a91-69440a280844.png)
-
+![Captura de Tela (78)](https://user-images.githubusercontent.com/75077046/199512779-989bf64a-80d4-4af5-9640-b52a55dc7d7d.png)
 
 - [x] Layout da guia "Financeiro" montado
 
-![Captura de Tela (66)](https://user-images.githubusercontent.com/75077046/195719984-f21d8b84-2c2b-4a56-89b4-8b983f6ba8e1.png)
-
+![Captura de Tela (79)](https://user-images.githubusercontent.com/75077046/199512806-87e77b67-2586-40eb-abad-6de005406147.png)
 
 - [x] Layout da guia "Configuração" montado
 
-![Captura de Tela (67)](https://user-images.githubusercontent.com/75077046/195720020-34f9f99f-7189-416b-85a8-5d310d2b7056.png)
-
+![Captura de Tela (80)](https://user-images.githubusercontent.com/75077046/199512829-e931c79d-4209-4161-a140-5a7e705b37c8.png)
 
 Vale ressaltar que as "versões finalizadas" dos layouts podem (e provavelmente serão) modificadas ainda. As fotos mostram uma versão beta do projeto.
 
 ## Back-End
 
+- [] Consertar BUG do horário só atualizar quando acontece um evento na tela
+
+- [x] Tela de login/cadastro funcional
+
 - [x] Botões da guia "Clientes" funcionais e banco de dados completo
 
-https://user-images.githubusercontent.com/75077046/195721696-23d863bc-00a4-47dc-b83f-fe6d6dadad1e.mp4
+https://user-images.githubusercontent.com/75077046/199514483-4515608d-d64a-412a-a5e5-093ee13ca329.mp4
+
+- Print do botão informações (não apareceu no vídeo)
+
+![Captura de Tela (71)](https://user-images.githubusercontent.com/75077046/199513322-a7237a29-d77b-4409-9dc4-3975a9d2b5ba.png)
 
 - [x] Botões da guia "Produtos" funcionais e banco de dados completo
 
-https://user-images.githubusercontent.com/75077046/196003634-c0454703-fa6f-4f9c-a06a-ff98cd266de0.mp4
+https://user-images.githubusercontent.com/75077046/199514529-b497b253-807c-4d7e-8b4f-ef2b57a33183.mp4
 
+- Print do botão informações (não apareceu no vídeo)
 
+![Captura de Tela (73)](https://user-images.githubusercontent.com/75077046/199513352-73c04b7f-320d-4181-8be2-70a604ce3782.png)
 
 # Como executar o projeto
 
