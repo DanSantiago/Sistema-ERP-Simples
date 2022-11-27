@@ -3,12 +3,13 @@
 
 # Sobre o projeto
 
-O projeto está sendo desenvolvido atualmente para fins de treinamento com alguns módulas da linguagem Python e não há previsão certa de entrega. A ideia do projeto é criar um sistema de gestão completo para um "loja hipotética".  
+O projeto está sendo desenvolvido atualmente para fins de treinamento com alguns módulas da linguagem Python e não há previsão certa de entrega. A ideia do projeto é criar um sistema de gestão completo para uma "loja hipotética".  
 
 
-## Demonstração - Atual
+## Demonstração Layout - Atual
 
-https://user-images.githubusercontent.com/75077046/199514413-f2923bfd-5c8c-4b5b-aa20-7f06ac7b6f56.mp4
+https://user-images.githubusercontent.com/75077046/204129653-928e35ba-a792-4a87-af39-f0a90dd891b5.mp4
+
 
 # Tecnologias utilizadas
 - Python
@@ -34,31 +35,31 @@ Lista de desenvolvimento:
 - [x] Aba das guias criada
 - [x] Layout da guia "Home" montado (Posicionamento dos boards feito mas os boards ainda não estão funcionando)
 
-![Captura de Tela (74)](https://user-images.githubusercontent.com/75077046/199512501-e45deca8-b144-4971-ad22-53738c285865.png)
+![Home](https://user-images.githubusercontent.com/75077046/204129688-fab625fe-4da1-449d-b392-a13882546dfa.png)
 
 - [x] Layout da guia "Clientes" montado
 
-![Captura de Tela (75)](https://user-images.githubusercontent.com/75077046/199512532-37c83e5e-95c3-4e6b-aa67-61646b510a4c.png)
+![Clie](https://user-images.githubusercontent.com/75077046/204129703-25161cfd-4c8d-4344-9ddc-d6427b9bc2b3.png)
 
 - [x] Layout da guia "Produto" montado
 
-![Captura de Tela (76)](https://user-images.githubusercontent.com/75077046/199512604-500bf14e-49b1-4e4d-a5aa-f6fb4f99df2e.png)
+![Prod](https://user-images.githubusercontent.com/75077046/204129711-8ccec392-3250-4a6d-8241-b2fb2bc997da.png)
 
 - [x] Layout da guia "Compras" montado
 
-![Captura de Tela (77)](https://user-images.githubusercontent.com/75077046/199512675-32fb7671-5323-47eb-957d-30ef5f53427c.png)
+![Compras](https://user-images.githubusercontent.com/75077046/204129718-0d47384a-345f-43f7-9e7c-a242fd07d584.png)
 
 - [x] Layout da guia "Vendas" montado
 
-![Captura de Tela (78)](https://user-images.githubusercontent.com/75077046/199512779-989bf64a-80d4-4af5-9640-b52a55dc7d7d.png)
+![Vendas](https://user-images.githubusercontent.com/75077046/204129723-2e87f57b-a4ab-49dd-b4a4-17077cd905d7.png)
 
 - [x] Layout da guia "Financeiro" montado
 
-![Captura de Tela (79)](https://user-images.githubusercontent.com/75077046/199512806-87e77b67-2586-40eb-abad-6de005406147.png)
+![Financeiro](https://user-images.githubusercontent.com/75077046/204129731-cd080ff7-e9c0-4878-af13-827063e14912.png)
 
-- [x] Layout da guia "Configuração" montado
+- [x] Layout da guia "Configuração" montado - (sem ideias de configurações no momento)
 
-![Captura de Tela (80)](https://user-images.githubusercontent.com/75077046/199512829-e931c79d-4209-4161-a140-5a7e705b37c8.png)
+![Config](https://user-images.githubusercontent.com/75077046/204129738-95d6b761-c50d-4381-bc44-bd1b9be9de3d.png)
 
 Vale ressaltar que as "versões finalizadas" dos layouts podem (e provavelmente serão) modificadas ainda. As fotos mostram uma versão beta do projeto.
 
@@ -69,20 +70,49 @@ Vale ressaltar que as "versões finalizadas" dos layouts podem (e provavelmente 
 - [x] Tela de login/cadastro funcional
 
 - [x] Botões da guia "Clientes" funcionais e banco de dados completo
+- [x] Gerador automático de código funcional (também pode ser inserido manualmente)
 
-https://user-images.githubusercontent.com/75077046/199514483-4515608d-d64a-412a-a5e5-093ee13ca329.mp4
+https://user-images.githubusercontent.com/75077046/204129792-99184f38-4f66-4035-9f2c-0e4f5df05a6a.mp4
 
 - Print do botão informações (não apareceu no vídeo)
 
-![Captura de Tela (71)](https://user-images.githubusercontent.com/75077046/199513322-a7237a29-d77b-4409-9dc4-3975a9d2b5ba.png)
+![Captura de Tela (96)](https://user-images.githubusercontent.com/75077046/204129798-fa0dc634-937c-47f9-98cd-3207af322646.png)
 
 - [x] Botões da guia "Produtos" funcionais e banco de dados completo
+- [x] Gerador automático de código funcional (também pode ser inserido manualmente)
 
-https://user-images.githubusercontent.com/75077046/199514529-b497b253-807c-4d7e-8b4f-ef2b57a33183.mp4
+https://user-images.githubusercontent.com/75077046/204129849-9eaf5183-944e-40c6-94c8-a725e5dc36e3.mp4
 
 - Print do botão informações (não apareceu no vídeo)
 
-![Captura de Tela (73)](https://user-images.githubusercontent.com/75077046/199513352-73c04b7f-320d-4181-8be2-70a604ce3782.png)
+![Captura de Tela (97)](https://user-images.githubusercontent.com/75077046/204129862-e0a4e71a-fb3d-4467-8d5a-013d22397225.png)
+
+- [x] Botões da guia "Compras" funcionais e banco de dados completo
+
+https://user-images.githubusercontent.com/75077046/204129929-827195d2-2e16-4b54-8c8b-bf0a60ea6263.mp4
+
+- [x] Integrações entre as tabelas do banco funcionais
+
+![Captura de Tela (98)](https://user-images.githubusercontent.com/75077046/204129976-9a5b447f-5447-4204-85c6-c84c46410e3e.png)
+
+![Captura de Tela (99)](https://user-images.githubusercontent.com/75077046/204129980-b0e4039d-4101-4754-90bd-70a4f40372e4.png)
+
+* Informações foram alteradas pela compra e contagem manual (feitas na aba de compras no vídeo)
+
+- [x] Botões da guia "Vendas" funcionais e banco de dados completo
+
+https://user-images.githubusercontent.com/75077046/204129938-dc58674c-8845-4d11-9727-accabc17e379.mp4
+
+- Print do botão informações (não apareceu no vídeo)
+
+![Captura de Tela (100)](https://user-images.githubusercontent.com/75077046/204130005-042c394d-f0ca-463b-8f29-1aa98e3699eb.png)
+
+
+- [x] Botões da guia "Financeiro" funcionais e banco de dados completo
+
+https://user-images.githubusercontent.com/75077046/204129945-9cda7737-2bac-45e1-b426-ff006f8d78b6.mp4
+
+- [] Botões da guia "Configurações" funcionais e banco de dados completo
 
 # Como executar o projeto
 
