@@ -3,13 +3,14 @@
 
 # Sobre o projeto
 
-O projeto está sendo desenvolvido atualmente para fins de treinamento com alguns módulas da linguagem Python e não há previsão certa de entrega. A ideia do projeto é criar um sistema de gestão completo para uma "loja hipotética".  
+O projeto está sendo desenvolvido atualmente para fins de treinamento com alguns módulas da linguagem Python e não há previsão certa de entrega. A ideia do projeto é criar um sistema de gestão básico para uma "loja hipotética".  
 
 
-## Demonstração Layout - Atual
+## Demonstração Layout - Atual 
 
-https://user-images.githubusercontent.com/75077046/204129653-928e35ba-a792-4a87-af39-f0a90dd891b5.mp4
+https://user-images.githubusercontent.com/75077046/206877234-61b20bf8-127c-4d1b-8a19-a503407bc300.mp4
 
+*pelo vídeo parece que o sistema está lento mas é só problemas com o game bar do windows 11
 
 # Tecnologias utilizadas
 - Python
@@ -33,9 +34,9 @@ Lista de desenvolvimento:
 - [x] Botôes funcionais
 - [x] Aba superior criada
 - [x] Aba das guias criada
-- [x] Layout da guia "Home" montado (Posicionamento dos boards feito mas os boards ainda não estão funcionando)
+- [x] Layout da guia "Home" montado
 
-![Home](https://user-images.githubusercontent.com/75077046/204129688-fab625fe-4da1-449d-b392-a13882546dfa.png)
+![Captura de Tela (3)](https://user-images.githubusercontent.com/75077046/206877253-6728594b-8bcb-480f-a4c0-e04769ef5bf5.png)
 
 - [x] Layout da guia "Clientes" montado
 
@@ -66,6 +67,10 @@ Vale ressaltar que as "versões finalizadas" dos layouts podem (e provavelmente 
 ## Back-End
 
 - [] Consertar BUG do horário só atualizar quando acontece um evento na tela
+
+- [x] Boards da home funcionais
+
+![Captura de Tela (3)](https://user-images.githubusercontent.com/75077046/206877285-89c7eaf7-e19a-49f7-83c8-989fed93a356.png)
 
 - [x] Tela de login/cadastro funcional
 
@@ -112,7 +117,7 @@ https://user-images.githubusercontent.com/75077046/204129938-dc58674c-8845-4d11-
 
 https://user-images.githubusercontent.com/75077046/204129945-9cda7737-2bac-45e1-b426-ff006f8d78b6.mp4
 
-- [] Botões da guia "Configurações" funcionais e banco de dados completo
+- [] Botões da guia "Configurações" funcionais
 
 # Como executar o projeto
 
