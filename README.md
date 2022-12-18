@@ -19,6 +19,7 @@ https://user-images.githubusercontent.com/75077046/206877234-61b20bf8-127c-4d1b-
 - PySimpleGUI (Front-End)
 - datetime (Sistema de data e horário na guia superior)
 - SQLite3 (Banco de dados - local)
+- cryptocode (Criptografia das senhas nas tabelas do banco)
 
 # Desemvolvimento
 
@@ -118,6 +119,16 @@ https://user-images.githubusercontent.com/75077046/204129938-dc58674c-8845-4d11-
 https://user-images.githubusercontent.com/75077046/204129945-9cda7737-2bac-45e1-b426-ff006f8d78b6.mp4
 
 - [] Botões da guia "Configurações" funcionais
+
+- [x] Criptografia nas senhas nas tabelas do banco
+
+![cripto](https://user-images.githubusercontent.com/75077046/208319576-6218253e-273b-4fe9-9af5-dff752b0a987.png)
+
+- [x] Sistema de permissão simples 
+
+![Captura de Tela (4)](https://user-images.githubusercontent.com/75077046/208319614-dff9d71c-8b72-4cbf-8cf9-9ed8ae303a8b.png)
+
+![Captura de Tela (5)](https://user-images.githubusercontent.com/75077046/208319636-5493030f-7955-4e65-b96e-179e2268e551.png)
 
 # Como executar o projeto
 
