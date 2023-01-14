@@ -1,7 +1,7 @@
 # Sistema ERP Simples
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanSantiago/Sistema-Loja-Completo/blob/main/LICENCE) 
 
-# Composição dos arquivos
+# Composição do projeto
 - main.py: é o módulo gerenciador de todo o programa
 - layouts.py: é o módulo onde o layout do programa é definido
 - func.py: é o módulo com as funções criadas
