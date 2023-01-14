@@ -1,4 +1,4 @@
-# Sistema de Loja Completo
+# Sistema ERP Simples
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanSantiago/Sistema-Loja-Completo/blob/main/LICENCE) 
 
 # Sobre o projeto
