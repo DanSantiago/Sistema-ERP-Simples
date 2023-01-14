@@ -74,11 +74,12 @@ Lista de desenvolvimento:
 
 https://user-images.githubusercontent.com/75077046/204129792-99184f38-4f66-4035-9f2c-0e4f5df05a6a.mp4
 
-- Print do botão informações (não apareceu no vídeo)
+- Print do botão informações
 
 ![Captura de Tela (96)](https://user-images.githubusercontent.com/75077046/204129798-fa0dc634-937c-47f9-98cd-3207af322646.png)
 
-- [x] Botões da guia "Produtos" funcionais e banco de dados completo
+- [x] Botões da guia "Produtos" funcionais
+
 - [x] Gerador automático de código funcional (também pode ser inserido manualmente)
 
 https://user-images.githubusercontent.com/75077046/204129849-9eaf5183-944e-40c6-94c8-a725e5dc36e3.mp4
@@ -87,7 +88,7 @@ https://user-images.githubusercontent.com/75077046/204129849-9eaf5183-944e-40c6-
 
 ![Captura de Tela (97)](https://user-images.githubusercontent.com/75077046/204129862-e0a4e71a-fb3d-4467-8d5a-013d22397225.png)
 
-- [x] Botões da guia "Compras" funcionais e banco de dados completo
+- [x] Botões da guia "Compras" funcionais
 
 https://user-images.githubusercontent.com/75077046/204129929-827195d2-2e16-4b54-8c8b-bf0a60ea6263.mp4
 
@@ -99,7 +100,7 @@ https://user-images.githubusercontent.com/75077046/204129929-827195d2-2e16-4b54-
 
 * Informações foram alteradas pela compra e contagem manual (feitas na aba de compras no vídeo)
 
-- [x] Botões da guia "Vendas" funcionais e banco de dados completo
+- [x] Botões da guia "Vendas" funcionais
 
 https://user-images.githubusercontent.com/75077046/204129938-dc58674c-8845-4d11-9727-accabc17e379.mp4
 
@@ -108,7 +109,7 @@ https://user-images.githubusercontent.com/75077046/204129938-dc58674c-8845-4d11-
 ![Captura de Tela (100)](https://user-images.githubusercontent.com/75077046/204130005-042c394d-f0ca-463b-8f29-1aa98e3699eb.png)
 
 
-- [x] Botões da guia "Financeiro" funcionais e banco de dados completo
+- [x] Botões da guia "Financeiro" funcionais
 
 https://user-images.githubusercontent.com/75077046/204129945-9cda7737-2bac-45e1-b426-ff006f8d78b6.mp4
 
@@ -118,7 +119,7 @@ https://user-images.githubusercontent.com/75077046/204129945-9cda7737-2bac-45e1-
 
 ![cripto](https://user-images.githubusercontent.com/75077046/208319576-6218253e-273b-4fe9-9af5-dff752b0a987.png)
 
-- [x] Sistema de permissão simples 
+- [x] Sistema de permissão implentado
 
 ![Captura de Tela (4)](https://user-images.githubusercontent.com/75077046/208319614-dff9d71c-8b72-4cbf-8cf9-9ed8ae303a8b.png)
 
