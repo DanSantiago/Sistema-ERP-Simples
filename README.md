@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O projeto está sendo desenvolvido atualmente para fins de treinamento com alguns módulas da linguagem Python e não há previsão certa de entrega. A ideia do projeto é criar um sistema de gestão básico para uma "loja hipotética".  
+O projeto foi desenvolvido para fins de treinamento com alguns módulos da linguagem Python. A ideia do projeto era criar um sistema de gestão básico para a gestão de uma "loja hipotética".  
 
 
 ## Demonstração Layout - Atual 
@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/75077046/206877234-61b20bf8-127c-4d1b-
 # Tecnologias utilizadas
 - Python
 
-## Módulos utilizados até o momento
+## Módulos utilizados
 - PySimpleGUI (Front-End)
 - datetime (Sistema de data e horário na guia superior)
 - SQLite3 (Banco de dados - local)
@@ -29,53 +29,47 @@ Lista de desenvolvimento:
 
 - [x] Tela de login/cadastro de usuários e loja
 
-![Captura de Tela (69)](https://user-images.githubusercontent.com/75077046/199512187-0ba11e60-086b-4ef0-93d2-fc1cb9d3b24e.png)
-
+![login](https://user-images.githubusercontent.com/75077046/212472260-380cb902-9a02-4646-8976-04a0f66f59ff.png)
 
 - [x] Botôes funcionais
 - [x] Aba superior criada
 - [x] Aba das guias criada
 - [x] Layout da guia "Home" montado
 
-![Captura de Tela (3)](https://user-images.githubusercontent.com/75077046/206877253-6728594b-8bcb-480f-a4c0-e04769ef5bf5.png)
+![home](https://user-images.githubusercontent.com/75077046/212472271-221e56b3-9be7-4415-90a8-828afbf7ae02.png)
 
 - [x] Layout da guia "Clientes" montado
 
-![Clie](https://user-images.githubusercontent.com/75077046/204129703-25161cfd-4c8d-4344-9ddc-d6427b9bc2b3.png)
+![clie](https://user-images.githubusercontent.com/75077046/212472276-ef6c452c-abe7-4e10-9bf4-a518ae15cc8e.png)
 
 - [x] Layout da guia "Produto" montado
 
-![Prod](https://user-images.githubusercontent.com/75077046/204129711-8ccec392-3250-4a6d-8241-b2fb2bc997da.png)
+![prod](https://user-images.githubusercontent.com/75077046/212472285-8b8202d8-66de-4a14-a6bd-911c88727963.png)
 
 - [x] Layout da guia "Compras" montado
 
-![Compras](https://user-images.githubusercontent.com/75077046/204129718-0d47384a-345f-43f7-9e7c-a242fd07d584.png)
+![compras](https://user-images.githubusercontent.com/75077046/212472291-97c11980-9127-4916-a7f6-d8eb3aad8785.png)
 
 - [x] Layout da guia "Vendas" montado
 
-![Vendas](https://user-images.githubusercontent.com/75077046/204129723-2e87f57b-a4ab-49dd-b4a4-17077cd905d7.png)
+![vendas](https://user-images.githubusercontent.com/75077046/212472294-6a67cf2d-29c4-489c-ac30-86e8fe10b867.png)
 
 - [x] Layout da guia "Financeiro" montado
 
-![Financeiro](https://user-images.githubusercontent.com/75077046/204129731-cd080ff7-e9c0-4878-af13-827063e14912.png)
+![financeiro](https://user-images.githubusercontent.com/75077046/212472304-b33e7ac8-855a-4cc2-80b5-0293214c31df.png)
 
 - [x] Layout da guia "Configuração" montado - (sem ideias de configurações no momento)
 
-![Config](https://user-images.githubusercontent.com/75077046/204129738-95d6b761-c50d-4381-bc44-bd1b9be9de3d.png)
-
-Vale ressaltar que as "versões finalizadas" dos layouts podem (e provavelmente serão) modificadas ainda. As fotos mostram uma versão beta do projeto.
+![conf](https://user-images.githubusercontent.com/75077046/212472311-bbb52d20-82e3-45cb-aeb4-1a9eda8771a2.png)
 
 ## Back-End
 
-- [] Consertar BUG do horário só atualizar quando acontece um evento na tela
-
 - [x] Boards da home funcionais
 
-![Captura de Tela (3)](https://user-images.githubusercontent.com/75077046/206877285-89c7eaf7-e19a-49f7-83c8-989fed93a356.png)
+![home](https://user-images.githubusercontent.com/75077046/212472271-221e56b3-9be7-4415-90a8-828afbf7ae02.png)
 
 - [x] Tela de login/cadastro funcional
-
-- [x] Botões da guia "Clientes" funcionais e banco de dados completo
+- [x] Integração com o banco de dados funcionando
 - [x] Gerador automático de código funcional (também pode ser inserido manualmente)
 
 https://user-images.githubusercontent.com/75077046/204129792-99184f38-4f66-4035-9f2c-0e4f5df05a6a.mp4
