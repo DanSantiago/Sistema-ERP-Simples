@@ -1,6 +1,8 @@
 # Sistema ERP Simples
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanSantiago/Sistema-Loja-Completo/blob/main/LICENCE) 
 
+**alguns bugs (tela "piscando", divisórios sumindo e um contraste ruim) ocorreram devido ao aplicativo de gravação de imagem, rodando o programa isso não acontece.
+
 # Sobre o projeto
 
 O projeto foi desenvolvido para fins de treinamento com alguns módulos da linguagem Python. A ideia do projeto era criar um sistema de gestão básico para a gestão de uma "loja hipotética".  
@@ -8,9 +10,7 @@ O projeto foi desenvolvido para fins de treinamento com alguns módulos da lingu
 
 ## Demonstração Layout - Atual 
 
-https://user-images.githubusercontent.com/75077046/206877234-61b20bf8-127c-4d1b-8a19-a503407bc300.mp4
-
-*pelo vídeo parece que o sistema está lento mas é só problemas com o game bar do windows 11
+https://user-images.githubusercontent.com/75077046/212473454-956cc341-ec1a-4ca4-a631-def56e753e9c.mp4
 
 # Tecnologias utilizadas
 - Python
@@ -87,30 +87,19 @@ https://user-images.githubusercontent.com/75077046/212473364-a711f078-c28a-4a2f-
 
 - [x] Botões da guia "Compras" funcionais
 
-https://user-images.githubusercontent.com/75077046/204129929-827195d2-2e16-4b54-8c8b-bf0a60ea6263.mp4
-
-- [x] Integrações entre as tabelas do banco funcionais
-
-![Captura de Tela (98)](https://user-images.githubusercontent.com/75077046/204129976-9a5b447f-5447-4204-85c6-c84c46410e3e.png)
-
-![Captura de Tela (99)](https://user-images.githubusercontent.com/75077046/204129980-b0e4039d-4101-4754-90bd-70a4f40372e4.png)
-
-* Informações foram alteradas pela compra e contagem manual (feitas na aba de compras no vídeo)
+https://user-images.githubusercontent.com/75077046/212475297-eb4712b7-8c65-4d7e-994b-a0e2947fde48.mp4
 
 - [x] Botões da guia "Vendas" funcionais
 
-https://user-images.githubusercontent.com/75077046/204129938-dc58674c-8845-4d11-9727-accabc17e379.mp4
+https://user-images.githubusercontent.com/75077046/212475502-52026f7a-59cb-43a4-81f9-56aa77c18f82.mp4
 
-- Print do botão informações (não apareceu no vídeo)
-
-![Captura de Tela (100)](https://user-images.githubusercontent.com/75077046/204130005-042c394d-f0ca-463b-8f29-1aa98e3699eb.png)
-
+https://user-images.githubusercontent.com/75077046/212475505-ff8e07fe-46cc-4349-a8e0-25c0857437b3.mp4
 
 - [x] Botões da guia "Financeiro" funcionais
 
-https://user-images.githubusercontent.com/75077046/204129945-9cda7737-2bac-45e1-b426-ff006f8d78b6.mp4
+https://user-images.githubusercontent.com/75077046/212475583-20b5e60d-76ec-4dbf-a17e-3ab0fbe27fe8.mp4
 
-- [] Botões da guia "Configurações" funcionais
+- [x] Aba configuração criada (não pensei em nada para colocar ali)
 
 - [x] Criptografia nas senhas nas tabelas do banco
 
@@ -118,16 +107,14 @@ https://user-images.githubusercontent.com/75077046/204129945-9cda7737-2bac-45e1-
 
 - [x] Sistema de permissão implentado
 
-![Captura de Tela (4)](https://user-images.githubusercontent.com/75077046/208319614-dff9d71c-8b72-4cbf-8cf9-9ed8ae303a8b.png)
-
-![Captura de Tela (5)](https://user-images.githubusercontent.com/75077046/208319636-5493030f-7955-4e65-b96e-179e2268e551.png)
+https://user-images.githubusercontent.com/75077046/212475723-a7401ea9-e7bd-4f06-931d-1039b86da175.mp4
 
 # Como executar o projeto
 
 Basta baixar a pasta do projeto e simplesmente executar o arquivo "main.py".
 
 OBS: É necessário ter uma versão do Python instalada para a execução funcionar.
-OBS2: É necessário instalar os módulos antes de executar o algoritmo.
+OBS2: É necessário instalar os módulos utilizados antes de executar o algoritmo.
 
 # Autor
 
