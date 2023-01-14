@@ -64,29 +64,26 @@ Lista de desenvolvimento:
 
 ## Back-End
 
-- [x] Boards da home funcionais
+- [x] Boards da home funcionais (atualizando conforme mudanças no banco)
 
-![home](https://user-images.githubusercontent.com/75077046/212472271-221e56b3-9be7-4415-90a8-828afbf7ae02.png)
+https://user-images.githubusercontent.com/75077046/212472921-5f672ca7-38ad-4061-aec3-ab30576639c5.mp4
 
 - [x] Tela de login/cadastro funcional
+
+https://user-images.githubusercontent.com/75077046/212472799-04b270f1-fa83-4f89-925c-1146098cc888.mp4
+
 - [x] Integração com o banco de dados funcionando
-- [x] Gerador automático de código funcional (também pode ser inserido manualmente)
+- [x] Gerador automático de código funcional (na tela de produtos também acontece o mesmo)
 
-https://user-images.githubusercontent.com/75077046/204129792-99184f38-4f66-4035-9f2c-0e4f5df05a6a.mp4
+https://user-images.githubusercontent.com/75077046/212472985-838cf313-0e71-493a-b76a-54d1821f1d23.mp4
 
-- Print do botão informações
+- [x] Botões da guia "Clientes" funcionais
 
-![Captura de Tela (96)](https://user-images.githubusercontent.com/75077046/204129798-fa0dc634-937c-47f9-98cd-3207af322646.png)
+https://user-images.githubusercontent.com/75077046/212473274-6c2a5f1a-1093-4c3a-b1ee-5c3ac9ebbebb.mp4
 
 - [x] Botões da guia "Produtos" funcionais
 
-- [x] Gerador automático de código funcional (também pode ser inserido manualmente)
-
-https://user-images.githubusercontent.com/75077046/204129849-9eaf5183-944e-40c6-94c8-a725e5dc36e3.mp4
-
-- Print do botão informações (não apareceu no vídeo)
-
-![Captura de Tela (97)](https://user-images.githubusercontent.com/75077046/204129862-e0a4e71a-fb3d-4467-8d5a-013d22397225.png)
+https://user-images.githubusercontent.com/75077046/212473364-a711f078-c28a-4a2f-b38d-4e45dde4ef14.mp4
 
 - [x] Botões da guia "Compras" funcionais
 
