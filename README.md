@@ -1,7 +1,9 @@
 # Sistema ERP Simples
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanSantiago/Sistema-Loja-Completo/blob/main/LICENCE) 
 
-**alguns bugs (tela "piscando", divisórios sumindo e um contraste ruim) ocorreram devido ao aplicativo de gravação de imagem, rodando o programa isso não acontece.
+*alguns bugs (tela "piscando", divisórios sumindo e um contraste ruim) ocorreram devido ao aplicativo de gravação de imagem, rodando o programa isso não acontece.
+
+*todos os arquivos .py devem estar na mesma pasta
 
 # Sobre o projeto
 
