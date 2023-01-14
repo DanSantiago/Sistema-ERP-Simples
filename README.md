@@ -1,7 +1,12 @@
 # Sistema ERP Simples
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanSantiago/Sistema-Loja-Completo/blob/main/LICENCE) 
 
-*alguns bugs (tela "piscando", divisórios sumindo e um contraste ruim) ocorreram devido ao aplicativo de gravação de imagem, rodando o programa isso não acontece.
+# Composição dos arquivos
+- main.py: é o módulo gerenciador de todo o programa
+- layouts.py: é o módulo onde o layout do programa é definido
+- func.py: é o módulo com as funções criadas
+- imagens.py: é o módulo com os dados hexadecimais das imagens utilizadas no programa
+- bancodados: é o módulo para criar/gerenciar o banco de dados
 
 *todos os arquivos .py devem estar na mesma pasta
 
@@ -9,6 +14,7 @@
 
 O projeto foi desenvolvido para fins de treinamento com alguns módulos da linguagem Python. A ideia do projeto era criar um sistema de gestão básico para a gestão de uma "loja hipotética".  
 
+*alguns bugs (tela "piscando", divisórios sumindo e um contraste ruim) ocorreram devido ao aplicativo de gravação de imagem, rodando o programa isso não acontece.
 
 ## Demonstração Layout - Atual 
 
