@@ -39,7 +39,7 @@ Lista de desenvolvimento:
 
 ![login](https://user-images.githubusercontent.com/75077046/212472260-380cb902-9a02-4646-8976-04a0f66f59ff.png)
 
-- [x] Botôes funcionais
+- [x] Botões funcionais
 - [x] Aba superior criada
 - [x] Aba das guias criada
 - [x] Layout da guia "Home" montado
